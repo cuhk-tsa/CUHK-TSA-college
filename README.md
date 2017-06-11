@@ -1,3 +1,5 @@
-# My Awesome Book
+# 書院完全手冊
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+書院完全手冊僅供參考，選書院一定有風險，請多方詢問了解，學生會不負任何責任。
+
+書院分發是件撲朔迷離的過程，分發至第五志願之後是有可能的，請做好隨遇而安的心理準備
