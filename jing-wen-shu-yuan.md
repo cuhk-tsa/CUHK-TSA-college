@@ -16,11 +16,11 @@
     * 講座：書院會在平日晚上或假日舉辦許多不同類型的講座，能夠依照自己的需求或喜好報名參加，有關於未來職涯發展、增進英文能力、多方面的知識等。
     * 大O → 是強制參加的，是認識香港人的好機會。同時，共膳的時候也很常是跟當時的Omate坐在一起的。
     * 高桌 → 一學期兩次，會請知名人士來演講 (一年四次至少要去三次)
-    * 共膳 → 每週二、三、四供膳，出席率至少要超過60%
+    * 共膳 → 每週二、三、四供膳，出席率至少要超過 60%
 
 ### 甄選
 
-*   第一關：書院會以email寄發問題，約每題以300字回答。
+*   第一關：書院會以email寄發問題，約每題以 300 字回答。
         2016年題目：
     
         1. To your understanding, what are the particular obligations of being a student of CW Chu College?  What are the challenges and benefits of these obligations to you?
