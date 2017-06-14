@@ -10,4 +10,5 @@
 * [伍宜孫書院](wu-yi-sun-shu-yuan.md)
 * [敬文書院](jing-wen-shu-yuan.md)
 * [和聲書院](he-sheng-shu-yuan.md)
+* [善衡書院](shan-heng-shu-yuan.md)
 
