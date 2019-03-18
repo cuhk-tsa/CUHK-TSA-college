@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [書院完全手冊](README.md)
 * [簡介](chapter1.md)
@@ -11,3 +11,4 @@
 * [伍宜孫書院](wu-yi-sun-shu-yuan.md)
 * [敬文書院](jing-wen-shu-yuan.md)
 * [和聲書院](he-sheng-shu-yuan.md)
+
