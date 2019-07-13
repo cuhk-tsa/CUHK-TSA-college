@@ -27,13 +27,13 @@
 1. [書院比較表](https://docs.google.com/spreadsheets/d/1mJYOoDB8drTSkWdF9ubeg5Q4GMRov7Jjb79ywAzmrNM/edit?fbclid=IwAR05JlTpPFZx73nto-_6syuEQb5HKuO9z0DUqtYNM8sF2e8gSmoJ-C2ajuc#gid=0)，可以快速的提供一些資訊和比較
 2. 台灣學生報文章列表：
    1. [崇基學院 ∥ 干政弘](http://goo.gl/7QdnwN)    
-   2. [新亞書院 ∥ Claire](https://%20http://goo.gl/J5CQfN)
+   2. [新亞書院 ∥ Claire](http://cuhktsanews.blogspot.com/2013/05/claire-chen-httpwww.html)
    3. [伍宜孫書院 ∥ Minnie](http://goo.gl/SM5e8X)
    4. [和聲書院 ∥ Holly](http://goo.gl/ehJwzL)
    5. [敬文書院 ∥ Anthony](http://goo.gl/aAOUUW)
    6. [晨興書院 ∥ Nathan](http://goo.gl/RtWLWv)
-   7. [善衡書院 ∥ Chloe](https://%20http://goo.gl/XK4X38)
+   7. [善衡書院 ∥ Chloe](http://cuhktsanews.blogspot.com/2013/05/chloe-chen-yiawhm-lkf-yiawhm-g-f-common.html)
    8. [逸夫書院 ∥ Bill](https://%20http://goo.gl/tjylLG)
    9. [聯合書院 ∥ 張智絜](http://goo.gl/tWJVPH)
-   10. [聯合書院 ∥ Candace](https://%20http://goo.gl/iD91ca)
+   10. [聯合書院 ∥ Candace](http://cuhktsanews.blogspot.com/2013/05/life-of-candace-tang-hang-seng-hall.html)
 
